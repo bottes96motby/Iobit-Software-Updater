@@ -212,4 +212,4 @@ IObit Software Updater is offered as a full free version, with all features and 
 Take control of your software updates today with IObit Software Updater! Download now and enjoy a hassle-free experience!
 
 ---
-**Last updated:** 2026-10-18 10:38:41 UTC
+**Last updated:** 2026-10-18 14:22:04 UTC
